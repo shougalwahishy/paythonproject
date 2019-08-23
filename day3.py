@@ -18,7 +18,7 @@ x = 4    y = 3
  print(x+y)
  
  
- Shoug
+Shoug
 Banana
 cherry
 Apple
