@@ -16,3 +16,13 @@ x = 4    y = 3
  x=6 
  y="Shoug"
  print(x+y)
+ 
+ 
+ Shoug
+Banana
+cherry
+Apple
+kiwi
+kiwi
+kiwi
+python is awesome
